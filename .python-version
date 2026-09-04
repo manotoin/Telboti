@@ -1,0 +1,3 @@
+git add .python-version
+git commit -m "pin python version"
+git push
